@@ -1,0 +1,14 @@
+{
+  "name": "react-browser-pathname",
+  "version": "0.0.1",
+  "description": "A react hooks wrapper around the browser's pathname",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Klancnik",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8"
+  }
+}
