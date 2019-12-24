@@ -13,12 +13,12 @@ Using [npm](https://www.npmjs.com/):
 Towards the top of your app, add the `BrowserPathname` Provider.
 
 ```javascript
-import WindowLocation from `react-browser-pathname`;
+import BrowserPathname from `react-browser-pathname`;
 
 const AppProviders = () => (
-    <WindowLocation>
+    <BrowserPathname>
         <App />
-    </WindowLocation>
+    </BrowserPathname>
 );
 ```
 

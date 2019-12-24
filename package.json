@@ -1,6 +1,6 @@
 {
   "name": "react-browser-pathname",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A react hooks wrapper around the browser's pathname",
   "main": "index.js",
   "scripts": {
